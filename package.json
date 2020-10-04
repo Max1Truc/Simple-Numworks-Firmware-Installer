@@ -1,0 +1,22 @@
+{
+  "name": "pydev-website",
+  "version": "1.0.0",
+  "description": "The website to develop on your NumWorks calculator with Epsilon-PyDev",
+  "private": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "start": "webpack-dev-server --open"
+  },
+  "author": "Max1Truc",
+  "license": "MIT",
+  "devDependencies": {
+    "file-loader": "^6.1.0",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "dependencies": {
+    "numworks.js": "^1.1.0"
+  }
+}
