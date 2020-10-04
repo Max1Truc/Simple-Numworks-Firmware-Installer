@@ -1,4 +1,4 @@
-# Epsilon-PyDev Website
+# Simple Numworks Firmware Web Installer
 
 Just a simple website to install some custom firmware on your NumWorks.
 
@@ -6,9 +6,9 @@ It is a bit messy, but intended to be understandable to people who want to creat
 
 ## Building
 
-First, you'll have to clone this repository: `git clone https://github.com/Max1Truc/PyDev-Website`.
+First, you'll have to clone this repository: `git clone https://github.com/Max1Truc/Simple-Numworks-Firmware-Installe numworks-installerr".
 
-Then, go in it with `cd PyDev-Website`.
+Then, go in it with `cd numworks-installer`.
 
 Finally, run `npm install` and `npm start`.
 
