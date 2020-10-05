@@ -6,7 +6,7 @@ It is a bit messy, but intended to be understandable to people who want to creat
 
 ## Building
 
-First, you'll have to clone this repository: `git clone https://github.com/Max1Truc/Simple-Numworks-Firmware-Installe numworks-installerr".
+First, you'll have to clone this repository: `git clone https://github.com/Max1Truc/Simple-Numworks-Firmware-Installer numworks-installer".
 
 Then, go in it with `cd numworks-installer`.
 
